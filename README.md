@@ -1,16 +1,138 @@
-# React + Vite
+# AffixxMedia Website Revamp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
 
-Currently, two official plugins are available:
+This project is a modern, responsive multi-page website redesign of AffixxMedia. The objective is to improve the existing website's user interface, user experience, navigation, and visual consistency while maintaining the company's brand identity.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Technologies Used
 
-## React Compiler
+* HTML5
+* CSS3
+* JavaScript
+* React.js
+* Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+* Modern and responsive homepage
+* Responsive navigation bar
+* Hero section
+* About section
+* Services section
+* Portfolio section
+* Blog section
+* Testimonials section
+* Careers page
+* Privacy Policy page
+* Terms and Conditions page
+* Contact section
+* Interactive navigation and UI elements
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Project Structure
+
+
+![alt text](<Screenshot 2026-11-05 123228.png>)
+![alt text](<Screenshot 2026-11-05 123257.png>)
+
+
+## Installation
+
+Clone the repository:
+
+bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+
+
+Navigate to the project folder:
+
+bash
+cd affixxmedia-website-revamp
+
+
+Install dependencies:
+
+bash
+npm install
+
+
+Start the development server:
+
+bash
+npm run dev
+
+
+Open the local URL displayed in the terminal.
+
+## Responsive Design
+
+The website is designed for:
+
+* Desktop
+* Tablet
+* Mobile
+
+## Backend and Database
+
+This project focuses on frontend development. Backend and database integration have not been implemented.
+
+## ScreenShorts
+
+Home
+
+![alt text](<Screenshot 2026-11-05 123338.png>)
+
+![alt text](<Screenshot 2026-11-05 124601-1.png>)
+
+![alt text](<Screenshot 2026-11-05 124535.png>)
+
+About section
+
+![alt text](<Screenshot 2026-11-05 123813.png>)
+
+Services section
+
+![alt text](<Screenshot 2026-11-05 123837.png>)
+
+![alt text](<Screenshot 2026-11-05 123858.png>)
+
+Blog section
+
+![alt text](<Screenshot 2026-11-05 123914.png>)
+
+Careers page
+
+![alt text](<Screenshot 2026-11-05 123936.png>)
+
+![alt text](<Screenshot 2026-11-05 123955.png>)
+
+![alt text](<Screenshot 2026-11-05 124009.png>)
+
+Contact and Footer
+
+![alt text](<Screenshot 2026-11-05 124031.png>)
+
+![alt text](<Screenshot 2026-11-05 125159.png>)
+
+Portfolio section
+
+![alt text](<Screenshot 2026-11-05 124550.png>)
+
+Testimonials section
+
+![alt text](<Screenshot 2026-11-05 124601.png>)
+
+Terms and Conditions page
+
+![alt text](<Screenshot 2026-11-05 124311.png>)
+
+![alt text](<Screenshot 2026-11-05 124120.png>)
+
+![alt text](<Screenshot 2026-11-05 124134.png>)
+
+Privacy Policy page
+
+![alt text](<Screenshot 2026-11-05 124441.png>)
+
+![alt text](<Screenshot 2026-11-05 124453.png>)
+
+
