@@ -412,7 +412,7 @@ return (
         </div>
 
         <h1>
-          Terms & <span>Conditions.</span>
+          Terms & <span>Conditions</span>
         </h1>
 
         <p>

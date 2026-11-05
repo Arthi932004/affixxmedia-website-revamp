@@ -348,7 +348,7 @@ return (
         </div>
 
         <h1>
-          Privacy <span>Policy.</span>
+          Privacy <span>Policy</span>
         </h1>
 
         <div className="privacy-breadcrumb">
